@@ -1,0 +1,37 @@
+criar o projeto 
+criar as pastsa 
+models
+controllers
+utils
+
+instalar o mongoose jsonwebtoken bcrypt
+
+criar o .env.local
+
+dbConnect dentro de utils
+
+criar meus models
+User.js
+Todo.js
+
+//essas pastas do models define a estrutura da minha colecao 
+fazer user.js primeiro
+criando depois Todo.js
+// nesses dois eu vou criar a estrutura da monha colecao, pois agora eu tenho duas referencia de banco de dados
+
+== models feitos
+
+criar pastar dentro do app
+
+app 
+	api
+		auth
+		login
+			route.js
+		register
+			route.js
+
+//registro primeiro
+
+//como nao temos a parte html do site, temos que abrir ele no thunder cliente
+esta dando problema no models para criptografar a senha
